@@ -28,7 +28,7 @@
 
 ## Other Useful Repositories:
 
-- [Phil Wilmarth's work](https://github.com/pwilmart/Start_Here)
+- [Phil Wilmarth's work](https://github.com/pwilmart/Start_Here) - Proteomics software and data analysis examples
 
 ---
 
