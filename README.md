@@ -26,4 +26,10 @@
 
 ---
 
+## Other Useful Repositories:
+
+- [Phil Wilmarth's work](https://github.com/pwilmart/Start_Here)
+
+---
+
 Phil Wilmarth<br />July 2, 2020
