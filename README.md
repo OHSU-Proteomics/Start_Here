@@ -16,6 +16,8 @@
 
 - [TMT_overview_2020](https://github.com/OHSU-Proteomics/TMT_overview_2020) - Overview of tandem mass tag (TMT) quantitative proteomics
 
+- [Data Analysis Overview](https://ohsu-proteomics.github.io/Data_Analysis_Overview/) - Common data analysis methods matched up with their proteomics methods
+
 - [PRIDE_submission_tutorial](https://github.com/OHSU-Proteomics/PRIDE_submission_tutorial) - How to submit mass spectrometry data to PRIDE
 
 - [squirrel_platelets_TMT_2020](https://github.com/OHSU-Proteomics/squirrel_platelets_TMT_2020) - An example TMT quantitative proteomics experiment
@@ -32,4 +34,4 @@
 
 ---
 
-Phil Wilmarth<br />July 2, 2020
+Phil Wilmarth<br />October 11, 2020
