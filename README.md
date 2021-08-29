@@ -10,6 +10,8 @@
 
 - [OHSU_TMT_Publications](https://github.com/OHSU-Proteomics/OHSU_TMT_Publications) - List of publications from the OHSU core where TMT labeling was used
 
+- [Working with PAW results files](https://github.com/OHSU-Proteomics/working-with-PAW-results-files) - A guide to PAW protein results files
+
 - [basic_proteomics_workflows](https://github.com/OHSU-Proteomics/basic_proteomics_workflows) - Presentation outlining basic proteomics work
 
 - [LC-MSMS](https://github.com/OHSU-Proteomics/LC-MSMS) - Introduction to liquid chromatography mass spectrometry
@@ -34,4 +36,4 @@
 
 ---
 
-Phil Wilmarth<br />October 11, 2020
+Phil Wilmarth<br />August 29, 2021
