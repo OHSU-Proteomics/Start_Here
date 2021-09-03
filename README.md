@@ -12,6 +12,8 @@
 
 - [Working with PAW results files](https://github.com/OHSU-Proteomics/working-with-PAW-results-files) - A guide to PAW protein results files
 
+- [gene set enrichment with STRING](https://github.com/OHSU-Proteomics/Gene-set-enrichment_STRING-DB) - A guide to using STRING-DB for gene set enrichment analyses
+
 - [basic_proteomics_workflows](https://github.com/OHSU-Proteomics/basic_proteomics_workflows) - Presentation outlining basic proteomics work
 
 - [LC-MSMS](https://github.com/OHSU-Proteomics/LC-MSMS) - Introduction to liquid chromatography mass spectrometry
